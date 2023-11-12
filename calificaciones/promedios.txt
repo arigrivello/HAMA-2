@@ -1,0 +1,7 @@
+promedios
+
+adriana 9
+susana 7
+gonzalo 6
+pedro 4
+sandra 5
